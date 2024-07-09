@@ -1,6 +1,5 @@
 # 💫 Hakkımda:
-Merhaba, ben Burak Sekmen. Antalya'da yaşıyorum ve web tasarımı alanında meslek lisesinden mezun oldum. Şuanda Akdeniz Üniversitesi'nde Bilgisayar okumaya devam ediyorum.
-Yaklaşık 5-6 yıldır yazılımla ilgileniyorum ve PHP, C++, C# gibi bilgisayar dillerini biliyorum. Veritabanı konularında da bilgim var ve SQL, MongoDB gibi veritabanları hakkında deneyimliyim.<br><br>
+Merhaba, ben Burak Sekmen. Antalya’da yaşıyorum ve web tasarımı alanında meslek lisesinden mezun oldum. Şu anda Akdeniz Üniversitesi’nde okumaya devam ediyorum. Yaklaşık 5-6 yıldır yazılımla ilgileniyorum ve PHP, C++, C# gibi bilgisayar dillerini biliyorum. Ayrıca, .NET Core, ASP.NET Core (MVC/Web API), LINQ, Web Service, jQuery, T-SQL, SQL Server, Ajax, OOP, Design Patterns, Design Principles, Entity Framework Core, MongoDB, NoSQL, RabbitMQ, Docker, Redis, SignalR, IdentityServer4, OData, gRPC ve Unit Test konularında da deneyim sahibiyim.<br><br>
 <img alt="Coding" align="right" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">Becerilerim<br>HTML<br>CSS<br>JavaScript<br>C++<br>Bootstrap<br>Php<br>Asp.Net<br>MVc5<br>Adobe Photoshop<br><br>İletişim<br>E-posta: burakskmn07@gmail.com<br>LinkedIn: https://www.linkedin.com/in/burak-sekmen/<br>İnternet Sitem : https://buraksekmen.com
 
 
